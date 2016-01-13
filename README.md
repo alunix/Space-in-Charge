@@ -13,6 +13,7 @@ Yet another 2D space-war game made with Unity3D.
 ## Dependencies
 
 **Unity3D** [Unity Game Engine](https://unity3d.com) is a multi platform game development tool.
+
 **CartoonFX** [Cartoon FX Packs](http://jeanmoreno.com/cartoonfx) includes desktop and mobile-optimized version of special effects.
 
 ## Screenshots
