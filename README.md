@@ -18,7 +18,7 @@ Yet another 2D space-war game made with Unity3D for Android.
 
 ## Dependencies
 
-**Unity3D** [Unity Game Engine](https://unity3d.com) is a multi platform game development tool.
+**Unity3D 5** [Unity Game Engine](https://unity3d.com) is a multi platform game development tool.
 
 **CartoonFX** [Cartoon FX Packs](http://jeanmoreno.com/cartoonfx) include desktop and mobile-optimized version of special effects.
 
