@@ -10,7 +10,7 @@ Yet another 2D space-war game made with Unity3D for Android.
 
 ## Features
 
-- Platform: Android
+- Platform: Android (SDK 14+)
 - Written in C#
 - Singleton design pattern
 - Extended level manager
@@ -21,6 +21,10 @@ Yet another 2D space-war game made with Unity3D for Android.
 **Unity3D** [Unity Game Engine](https://unity3d.com) is a multi platform game development tool.
 
 **CartoonFX** [Cartoon FX Packs](http://jeanmoreno.com/cartoonfx) include desktop and mobile-optimized version of special effects.
+
+## Releases
+
+- [Download v1.0](https://github.com/yaa110/Space-in-Charge/releases/download/v1.0/app-release.apk) (Minimum SDK Version: 14, Android 4.0)
 
 ## Screenshots
 
