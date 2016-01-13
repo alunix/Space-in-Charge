@@ -1,12 +1,18 @@
 Space in Charge
 ===============
 
-Yet another 2D space-war game made with Unity3D.
+Yet another 2D space-war game made with Unity3D for Android.
+
+## How to play
+
+- To control the ship, just put your finger on it and drag your finger around on the screen.
+- Tap on the screen to fire
 
 ## Features
 
-- Programming language: C#
-- Design pattern: Singleton
+- Platform: Android
+- Written in C#
+- Singleton design pattern
 - Extended level manager
 - Handling Multi-Touch gestures
 
