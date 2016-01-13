@@ -1,0 +1,1 @@
+include ':app', ':unitytoast', ':securesave', ':pushnotification', ':filepicker'

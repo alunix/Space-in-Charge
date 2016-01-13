@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@android:color/background_dark">
+
+    <LinearLayout
+        android:id="@+id/back_btn"
+        android:layout_width="match_parent"
+        android:background="@drawable/button"
+        android:clickable="true"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:paddingTop="16dp"
+            android:paddingRight="16dp"
+            android:paddingLeft="16dp"
+            android:textSize="16sp"
+            android:onClick="onClickBack"
+            android:paddingBottom="7dp"
+            android:text="@string/dot_dot"
+            android:textColor="@android:color/white"
+            android:drawablePadding="16dp"
+            tools:ignore="RtlHardcoded" />
+
+        <TextView
+            android:id="@+id/back_path"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="start"
+            android:singleLine="true"
+            android:gravity="left"
+            android:paddingRight="16dp"
+            android:paddingBottom="16dp"
+            android:paddingLeft="16dp"
+            android:textSize="12sp"
+            android:onClick="onClickBack"
+            android:textColor="@android:color/white"
+            android:drawablePadding="16dp"
+            tools:ignore="RtlHardcoded" />
+
+    </LinearLayout>
+
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_below="@+id/back_btn"
+        android:orientation="vertical"
+        android:dividerHeight="0dp"
+        android:divider="@android:color/transparent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>
