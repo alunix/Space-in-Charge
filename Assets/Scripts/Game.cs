@@ -125,7 +125,6 @@ public class Game : MonoBehaviour {
             activity = new AndroidJavaClass("com.unity3d.player.UnityPlayer").GetStatic<AndroidJavaObject>("currentActivity");
             toast = new Toast();
             prefs = new SecurePreferences(activity, "resonance.spaceincharge");
-            new PushNotification().register(activity, "https://raw.githubusercontent.com/yaa110/Effects-Pro/master/bin/spaceincharge.txt");
             #else
             prefs = new SecurePreferences();
             #endif
