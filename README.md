@@ -28,8 +28,8 @@ Yet another 2D space-war game made with Unity3D for Android.
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/yaa110/Space-in-Charge/master/screenshots/01.png)
-- [Screenshot 02](https://raw.githubusercontent.com/yaa110/Space-in-Charge/master/screenshots/02.png)
+![Screenshot](https://raw.githubusercontent.com/yaa110/Space-in-Charge/master/screenshots/02.png)
+- [Screenshot 02](https://raw.githubusercontent.com/yaa110/Space-in-Charge/master/screenshots/01.png)
 - [Screenshot 03](https://raw.githubusercontent.com/yaa110/Space-in-Charge/master/screenshots/03.png)
 - [Screenshot 04](https://raw.githubusercontent.com/yaa110/Space-in-Charge/master/screenshots/04.png)
 - [Screenshot 05](https://raw.githubusercontent.com/yaa110/Space-in-Charge/master/screenshots/05.png)
